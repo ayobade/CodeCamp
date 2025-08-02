@@ -68,7 +68,31 @@
             </div>
         </div>
 
-       
+        <!-- Results Screen -->
+        <div class="screen results-screen" id="results-screen" style="display: none;">
+            <div class="results-content">
+                <h2 class="screen-title" id="results-title">Quiz Complete!</h2>
+                <div class="results-stats">
+                    <div class="stat-item">
+                        <span class="stat-label">Questions Answered:</span>
+                        <span class="stat-value" id="questions-answered">0/50</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">Your Score:</span>
+                        <span class="stat-value" id="final-score">0/50</span>
+                    </div>
+                    <div class="stat-item">
+                        <span class="stat-label">Percentage:</span>
+                        <span class="stat-value" id="percentage">0%</span>
+                    </div>
+                </div>
+                <div class="results-message" id="results-message"></div>
+                <div class="button-group">
+                    <button class="btn btn-primary" id="restart-quiz-btn">Restart Quiz</button>
+                    <button class="btn btn-secondary" id="back-home-btn">Back to Home</button>
+                </div>
+            </div>
+        </div>
     </div>
 
     <script src="script.js"></script>
