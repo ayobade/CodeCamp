@@ -1,10 +1,12 @@
-
-<img alt="Readme-image" src="./readmeimage.png" />
+CODECAMP
 
 🧠 JavaScript Quiz App
 This is a fun and interactive quiz app built with HTML, CSS, and JavaScript. It contains 50 programming questions, mostly about JavaScript. Users answer one question at a time and get their final score at the end.
 
-🎯 What This App Does
+
+
+🎯 What This App Does:
+
 Displays 50 multiple-choice programming questions
 
 Lets users select answers and go through the quiz
@@ -14,3 +16,13 @@ Shows the final score at the end
 Has a simple, colorful design with smooth interaction
 
 Fully responsive – works on phones and desktops
+
+
+
+🛠 Technologies Used:
+
+HTML
+
+CSS
+
+JavaScript
